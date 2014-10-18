@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="PuntoDeVenta.Ventas"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PuntoDeVenta"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Punto de Venta" VerticalAlignment="Top" Margin="10,0,0,0"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Ventas" VerticalAlignment="Top" Margin="10,18,0,0" FontSize="24"/>
+
+        <ListBox x:ConnectionId='1' x:Name="lstVentas" Margin="8,116,12,15"                          >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Folio}" FontSize="20" Width="100" Margin="15, 0"></TextBlock>
+                        <TextBlock Text="{Binding Total}" FontSize="20" Width="100" ></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <Grid Height="100" Width="100"/>
+        </ListBox>
+        <Button x:ConnectionId='2' x:Name="btnNueva" Content="Nueva Venta" HorizontalAlignment="Left" Margin="254,12,0,0" VerticalAlignment="Top"                        Width="138"/>
+
+    </Grid>
+</Page>
+

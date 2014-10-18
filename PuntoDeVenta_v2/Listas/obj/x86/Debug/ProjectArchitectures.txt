@@ -1,0 +1,1 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v2\Listas\PuntoDeVenta.csproj;x86

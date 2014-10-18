@@ -1,0 +1,135 @@
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\bin\Debug\App.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\bin\Debug\MainPage.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\bin\Debug\PuntoDeVenta.xr.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\bin\Debug\PuntoDeVenta.exe
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\bin\Debug\resources.pri
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\bin\Debug\AppxManifest.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\bin\Debug\PuntoDeVenta.build.appxrecipe
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\App.g.i.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\App.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\MainPage.g.i.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\MainPage.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\App.xaml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\App.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\MainPage.xaml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\MainPage.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\PuntoDeVenta.exe
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\PuntoDeVenta.pdb
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\priconfig.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\layout.resfiles
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\resources.resfiles
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\pri.resfiles
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\qualifiers.txt
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\Listas\Listas\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\App.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\MainPage.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\PuntoDeVenta.xr.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\PuntoDeVenta.exe
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\resources.pri
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\AppxManifest.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\PuntoDeVenta.build.appxrecipe
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\App.g.i.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\App.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MainPage.g.i.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MainPage.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\App.xaml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MainPage.xaml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\App.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MainPage.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\PuntoDeVenta.exe
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\PuntoDeVenta.pdb
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\priconfig.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\layout.resfiles
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\resources.resfiles
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\pri.resfiles
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\qualifiers.txt
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\ProjectArchitectures.txt
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\App.xbf
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\MainPage.xbf
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\PuntoDeVenta.xr.xml
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\PuntoDeVenta.exe
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\PuntoDeVenta.pdb
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\resources.pri
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\AppxManifest.xml
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\bin\Debug\PuntoDeVenta.build.appxrecipe
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\App.g.i.cs
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\App.g.cs
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MainPage.g.i.cs
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MainPage.g.cs
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\XamlTypeInfo.g.cs
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\App.xaml
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\App.xbf
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\XamlSaveStateFile.xml
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MainPage.xaml
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MainPage.xbf
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\PuntoDeVenta.exe
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\PuntoDeVenta.pdb
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\priconfig.xml
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\priconfig.xml.intermediate
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\layout.resfiles
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\layout.resfiles.intermediate
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\resources.resfiles
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\resources.resfiles.intermediate
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\pri.resfiles
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\pri.resfiles.intermediate
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\qualifiers.txt
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\qualifiers.txt.intermediate
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+Z:\jhomerograniel en mi Mac\Documents\Visual Studio 2013\Projects\PuntoDeVenta\Listas\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\bin\Debug\App.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\bin\Debug\MainPage.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\bin\Debug\PuntoDeVenta.xr.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\bin\Debug\PuntoDeVenta.exe
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\bin\Debug\resources.pri
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\bin\Debug\AppxManifest.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\bin\Debug\PuntoDeVenta.build.appxrecipe
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\App.g.i.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\App.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\MainPage.g.i.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\MainPage.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\App.xaml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\MainPage.xaml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\App.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\MainPage.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\PuntoDeVenta.exe
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\PuntoDeVenta.pdb
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\priconfig.xml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\layout.resfiles
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\resources.resfiles
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\pri.resfiles
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\qualifiers.txt
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\bin\Debug\Ventas.xbf
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\Ventas.g.i.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\Ventas.g.cs
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\Ventas.xaml
+C:\Users\Rosalba\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v1\Listas\obj\Debug\Ventas.xbf
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v2\Listas\obj\Debug\PuntoDeVenta.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PuntoDeVenta_v2\Listas\obj\Debug\PuntoDeVenta.pdb

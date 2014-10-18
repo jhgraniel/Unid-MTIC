@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="Listas.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Listas"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21*"/>
+            <RowDefinition Height="43*"/>
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Punto de Venta" VerticalAlignment="Top" Margin="10,0,0,0"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Nueva Venta" VerticalAlignment="Top" Margin="10,18,0,0" FontSize="24"/>
+   
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Producto:" VerticalAlignment="Top" Margin="10,67,0,0"/>
+        <TextBlock x:Name="txtPrecio" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Precio Unitario: " VerticalAlignment="Top" Margin="8,106,0,0"/>
+        <TextBlock x:Name="lblPrecio" HorizontalAlignment="Left" TextWrapping="Wrap" Text="$ 0.0" VerticalAlignment="Top" Margin="102,97,0,0" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Cantidad:" VerticalAlignment="Top" Margin="8,152,0,0"/>
+
+        <TextBox x:Name="txtCantidad" HorizontalAlignment="Left" Margin="59,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" InputScope="Number" Width="120"/>
+       
+        <ListBox x:Name="lista" Margin="8,192,12,225" Grid.RowSpan="2">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Nombre}" FontSize="20" Width="150" Margin="15, 0"></TextBlock>
+                        <TextBlock Text="{Binding Cantidad}" FontSize="20" Width="80" Margin="15, 0"></TextBlock>
+                        <TextBlock Text="{Binding Total}" FontSize="20" Width="80" ></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button x:ConnectionId='1' x:Name="btnAgregar" HorizontalAlignment="Left" Margin="274,126,0,0" VerticalAlignment="Top" Content="Agregar"                         />
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Subtotal:" VerticalAlignment="Top" Margin="142,211.348,0,0" FontSize="18" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="I.V.A.:" VerticalAlignment="Top" Margin="142,234.348,0,0" FontSize="18" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Total:" VerticalAlignment="Top" Margin="142,265.348,0,0" FontSize="24" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Pagado:" VerticalAlignment="Top" Margin="142,305.348,0,0" FontSize="18" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Cambio:" VerticalAlignment="Top" Margin="142,344.348,0,0" FontSize="18" Grid.Row="1"/>
+        <Button x:Name="btnVender" HorizontalAlignment="Left" Margin="44,372,0,0" VerticalAlignment="Top" Content="VENDER" Grid.Row="1"/>
+        <TextBlock x:Name="lblSubtotal" HorizontalAlignment="Right" TextWrapping="Wrap" Text="$ 0.0" VerticalAlignment="Top" Margin="0,213.348,46,0" Height="20" Width="80" FontSize="18" Grid.Row="1"/>
+        <TextBlock x:Name="lblIva" HorizontalAlignment="Right" TextWrapping="Wrap" Text="$ 0.0" VerticalAlignment="Top" Margin="0,236.348,46,0" Height="20" Width="80" FontSize="18" Grid.Row="1"/>
+        <TextBlock x:Name="lblTotal" HorizontalAlignment="Right" TextWrapping="Wrap" Text="$ 0.0" VerticalAlignment="Top" Margin="0,261.348,46,0" Height="35" Width="80" FontSize="24" Grid.Row="1"/>
+        <TextBlock x:Name="lblCambio" HorizontalAlignment="Right" TextWrapping="Wrap" Text="$ 0.0" VerticalAlignment="Top" Margin="0,344.348,46,0" Height="23" Width="80" FontSize="18" Grid.Row="1"/>
+        <TextBox x:ConnectionId='2' x:Name="txtPagado" HorizontalAlignment="Right" Margin="0,296.348,46,0" TextWrapping="Wrap" VerticalAlignment="Top" InputScope="Number" Width="109" FontSize="18"                                 Grid.Row="1"/>
+        
+        <ComboBox x:ConnectionId='3' x:Name="cmbProductos" VerticalAlignment="Top" Width="250" Margin="75,42,0,0" HorizontalAlignment="Left"                                                 />
+        <Button x:ConnectionId='4' x:Name="btnCancelar" HorizontalAlignment="Left" Margin="245,372,0,0" VerticalAlignment="Top" Content="Cancelar" Grid.Row="1"                          />
+
+    </Grid>
+</Page>
+
